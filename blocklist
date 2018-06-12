@@ -18,6 +18,10 @@
 
 0.0.0.0 rayjump.com
 0.0.0.0 detect.rayjump.com
+0.0.0.0 analytics.rayjump.com
+0.0.0.0 net.rayjump.com
+0.0.0.0 cdn-adn.rayjump.com
+0.0.0.0 sg01.rayjump.com
 
 0.0.0.0 adjust.com
 0.0.0.0 app.adjust.com
@@ -36,3 +40,18 @@
 0.0.0.0	global.apis.naver.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 freegeoip.net
+
+0.0.0.0 appnext.hs.llnwd.net
+0.0.0.0 ads.ad4game.com
+0.0.0.0 rfrl.pw
+
+0.0.0.0 appnext.com
+0.0.0.0 global.appnext.com
+
+0.0.0.0 tlnk.io
+0.0.0.0 8lo-3.tlnk.io
+
+0.0.0.0 appier.net
+0.0.0.0 xx.c.appier.net
+0.0.0.0 misky-ads.net
+0.0.0.0 click.misky-ads.com
