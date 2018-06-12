@@ -30,12 +30,16 @@
 0.0.0.0 store.mumu.163.com
 
 0.0.0.0 baidu.com
+0.0.0.0 www.baidu.com
 0.0.0.0 sinaimg.cn
 0.0.0.0 ucloud.com.cn
 
 0.0.0.0 xyaz.cn
+0.0.0.0 www.xyaz.cn
 0.0.0.0 memuplay.com
+0.0.0.0 www.memuplay.com
 0.0.0.0 microvirt.com
+0.0.0.0 www.microvirt.com
 
 0.0.0.0	global.apis.naver.com
 0.0.0.0 settings.crashlytics.com
