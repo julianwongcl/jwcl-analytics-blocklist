@@ -39,6 +39,9 @@
 0.0.0.0 microvirt.com
 0.0.0.0 www.microvirt.com
 
+0.0.0.0 yourxspace.net
+0.0.0.0 api.yourxspace.net
+
 0.0.0.0	global.apis.naver.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 freegeoip.net
