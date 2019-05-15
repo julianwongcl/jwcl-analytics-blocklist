@@ -1,67 +1,59 @@
-0.0.0.0 addtoany.com
-0.0.0.0 flurry.com
-0.0.0.0 data.flurry.com
-0.0.0.0 dev.flurry.com
-
-0.0.0.0 ad-brix.com
-0.0.0.0 tracking.ad-brix.com
-0.0.0.0 campaign.ad-brix.com
-0.0.0.0 cvr.ad-brix.com
-
-0.0.0.0 duapps.com
-0.0.0.0 rts.ssl2.duapps.com
-0.0.0.0 mblapi.ssl2.duapps.com
-
-0.0.0.0 inmobi.com
-0.0.0.0 config.inmobi.com
-0.0.0.0 sdkm.w.inmobi.com
-
-0.0.0.0 rayjump.com
-0.0.0.0 detect.rayjump.com
-0.0.0.0 analytics.rayjump.com
-0.0.0.0 net.rayjump.com
-0.0.0.0 cdn-adn.rayjump.com
-0.0.0.0 sg01.rayjump.com
-
-0.0.0.0 adjust.com
-0.0.0.0 app.adjust.com
-
-0.0.0.0 mumu.nie.netease.com
-0.0.0.0 store.mumu.163.com
-
-0.0.0.0 baidu.com
-0.0.0.0 www.baidu.com
-0.0.0.0 sinaimg.cn
-0.0.0.0 ucloud.com.cn
-
-0.0.0.0 xyaz.cn
-0.0.0.0 www.xyaz.cn
-0.0.0.0 microvirt.com
-0.0.0.0 www.microvirt.com
-
-0.0.0.0 yourxspace.net
-0.0.0.0 api.yourxspace.net
-
 0.0.0.0	global.apis.naver.com
-0.0.0.0 settings.crashlytics.com
-0.0.0.0 freegeoip.net
-
-0.0.0.0 appnext.hs.llnwd.net
-0.0.0.0 ads.ad4game.com
-0.0.0.0 rfrl.pw
-
-0.0.0.0 appnext.com
-0.0.0.0 global.appnext.com
-
-0.0.0.0 tlnk.io
 0.0.0.0 8lo-3.tlnk.io
-
-0.0.0.0 appier.net
-0.0.0.0 xx.c.appier.net
-0.0.0.0 misky-ads.net
-0.0.0.0 click.misky-ads.com
-
-0.0.0.0 redshell.io 
+0.0.0.0 ad-brix.com
+0.0.0.0 addtoany.com
+0.0.0.0 adjust.com
+0.0.0.0 ads.ad4game.com
+0.0.0.0 adt.xdrig.com
+0.0.0.0 analytics.rayjump.com
 0.0.0.0 api.redshell.io
-0.0.0.0 treasuredata.com
+0.0.0.0 api.yourxspace.net
+0.0.0.0 app.adjust.com
+0.0.0.0 appier.net
+0.0.0.0 applinzi.com
+0.0.0.0 appnext.com
+0.0.0.0 appnext.hs.llnwd.net
+0.0.0.0 baidu.com
+0.0.0.0 campaign.ad-brix.com
+0.0.0.0 cdn-adn.rayjump.com
+0.0.0.0 click.misky-ads.com
+0.0.0.0 config.inmobi.com
+0.0.0.0 cvr.ad-brix.com
+0.0.0.0 data.flurry.com
+0.0.0.0 detect.rayjump.com
+0.0.0.0 dev.appboy.com
+0.0.0.0 dev.flurry.com
+0.0.0.0 duapps.com
+0.0.0.0 flurry.com
+0.0.0.0 freegeoip.net
+0.0.0.0 global.appnext.com
+0.0.0.0 gv1.xdrig.com
 0.0.0.0 in.treasuredata.com
+0.0.0.0 inmobi.com
+0.0.0.0 log.reyun.com
+0.0.0.0 mblapi.ssl2.duapps.com
+0.0.0.0 me.xdrig.com
+0.0.0.0 microvirt.com
+0.0.0.0 misky-ads.net
+0.0.0.0 mumu.nie.netease.com
+0.0.0.0 net.rayjump.com
+0.0.0.0 rayjump.com
+0.0.0.0 redshell.io 
+0.0.0.0 rfrl.pw
+0.0.0.0 rts.ssl2.duapps.com
+0.0.0.0 sdkm.w.inmobi.com
+0.0.0.0 settings.crashlytics.com
+0.0.0.0 sg01.rayjump.com
+0.0.0.0 sinaimg.cn
+0.0.0.0 stats.jpush.cn
+0.0.0.0 store.mumu.163.com
+0.0.0.0 tlnk.io
+0.0.0.0 tracking.ad-brix.com
+0.0.0.0 treasuredata.com
+0.0.0.0 ucloud.com.cn
+0.0.0.0 www.baidu.com
+0.0.0.0 www.microvirt.com
+0.0.0.0 www.xyaz.cn
+0.0.0.0 xx.c.appier.net
+0.0.0.0 xyaz.cn
+0.0.0.0 yourxspace.net
