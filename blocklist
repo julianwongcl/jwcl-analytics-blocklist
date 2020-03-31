@@ -60,7 +60,8 @@
 0.0.0.0 app.adjust.com
 0.0.0.0 gate.hockeyapp.net
 
+0.0.0.0 crs-event.line.me
+0.0.0.0 ci.line-apps.com
 0.0.0.0 cix.line-apps.com
 0.0.0.0 obs.line-scdn.net
-0.0.0.0 ci.line-apps.com
 0.0.0.0 profile.line-scdn.net
