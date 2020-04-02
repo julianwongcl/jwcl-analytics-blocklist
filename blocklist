@@ -60,12 +60,13 @@
 0.0.0.0 app.adjust.com
 0.0.0.0 gate.hockeyapp.net
 
+0.0.0.0 a.line.me
 0.0.0.0 crs-event.line.me
+0.0.0.0 lan.line.me
+0.0.0.0 ch-news.line-apps.com
 0.0.0.0 ci.line-apps.com
 0.0.0.0 cix.line-apps.com
 0.0.0.0 scdn.line-apps.com
 0.0.0.0 torimochi.line-apps.com
 0.0.0.0 d.line-scdn.net
 0.0.0.0 obs.line-scdn.net
-0.0.0.0 lan.line.me
-0.0.0.0 ch-news.line-apps.com
